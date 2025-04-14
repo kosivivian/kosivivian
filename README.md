@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kosisochukwu Nebolisa
 =============================================================================================================================================
 
-Software developer and AI Enthusiast
+Software developer and ML/Data Scientist
 ------------------------------------
 
-I have been learning to code for a year now. I am skilled in Rust and Python Programming Language. I am currently a computer science undergraduate and I do not have any big personal projects but I hope to commit some in the future. Most of my projects are simple ones done to further understand my knowledge on different programming languages as I am still a younger coder. A bit about me is that I have great desire in the expressions of Artificial Intelligence in the world today and I have interest in developing softwares that can used to solve certain issues in the political and industrial sector.
+Life is all about making decisions—decisions that shape our future. But we can't make the right choices without understanding our past and present. Our past holds countless records of actions, each with a timestamp—this is data. Cleaning, analyzing, and interpreting this data is what empowers better decisions. That’s why I’m deeply passionate about data science, data management, and machine learning. I’m currently growing my skills and building the future one dataset at a time.
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [kossyvivian77@gmail.com](mailto:kossyvivian77@gmail.com)
-* 🤝  I'm open to collaborating on Research programmes and interesting projects
+* ✉️  You can contact me at [nebolisako@gmail.com](mailto:nebolisako@gmail.com)
+* 🤝  I'm open to collaborating on Research programmes and innovative projects around business intelligence, commerce, and fashion
 * ⚡  A fun fact about me is my observant nature makes it easy for me to study people, read body language, and even sometimes know what a person is thinking. Yes! I am that good..
 
 ### Skills
