@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kosisochukwu Nebolisa
 =============================================================================================================================================
 
-Software developer and ML/Data Scientist
+AI Engineering / AI Automation
 ------------------------------------
 
-Life is all about making decisions—decisions that shape our future. But we can't make the right choices without understanding our past and present. Our past holds countless records of actions, each with a timestamp—this is data. Cleaning, analyzing, and interpreting this data is what empowers better decisions. That’s why I’m deeply passionate about data science, data management, and machine learning. I’m currently growing my skills and building the future one dataset at a time.
+I help small businesses and creators increase efficiency and revenue with AI automation systems. I specialize in building chatbots, lead generation systems, social media workflows, content automation, and voice agents using tools like Make, n8n, and Zapier. My approach focuses on identifying bottlenecks in your business and deploying practical, scalable systems that save time, reduce costs, and drive growth. Whether you're overwhelmed with customer support or struggling to capture and convert leads, I can design and implement a solution tailored to your needs.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [nebolisako@gmail.com](mailto:nebolisako@gmail.com)
 * 🤝  I'm open to collaborating on Research programmes and innovative projects around business intelligence, commerce, and fashion
-* ⚡  A fun fact about me is my observant nature makes it easy for me to study people, read body language, and even sometimes know what a person is thinking. Yes! I am that good..
+
 
 ### Skills
 
